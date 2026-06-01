@@ -117,7 +117,9 @@ We use reasonable technical and organizational measures. No method of storage or
 
 ## 11. Changes to this policy
 
-We may update this policy from time to time. The “Last updated” date will change; material updates may be communicated in the App. Current version: https://wordexa.app/privacy
+We may update this policy from time to time. The “Last updated” date will change; material updates may be communicated in the App.
+
+Current version: [EN.md](https://github.com/yazicii/wordexa-privacy/blob/main/EN.md) · Repository: [yazicii/wordexa-privacy](https://github.com/yazicii/wordexa-privacy)
 
 ## 12. Contact
 
