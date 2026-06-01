@@ -119,7 +119,9 @@ Verilerinizi korumak için makul teknik ve idari önlemler alırız. İnternet v
 
 ## 11. Politika değişiklikleri
 
-Bu politikayı zaman zaman güncelleyebiliriz. Önemli değişikliklerde güncelleme tarihini değiştiririz; gerekirse uygulama içinde bilgilendirme yapılır. Güncel metin: https://wordexa.app/privacy
+Bu politikayı zaman zaman güncelleyebiliriz. Önemli değişikliklerde güncelleme tarihini değiştiririz; gerekirse uygulama içinde bilgilendirme yapılır.
+
+Güncel metin: [TR.md](https://github.com/yazicii/wordexa-privacy/blob/main/TR.md) · Depo: [yazicii/wordexa-privacy](https://github.com/yazicii/wordexa-privacy)
 
 ## 12. İletişim
 
